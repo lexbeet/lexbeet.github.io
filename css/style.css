@@ -1,5 +1,5 @@
 @font-face {
-    font-family: Tahoma; 
+    font-family: Arial; 
      
    }
 #container {
@@ -7,7 +7,7 @@
 
 background: rgba( 255, 255, 255, 0.6);  
 
-    font-family: Tahoma;
+    font-family: Arial;
 color: #525558; 
 font-size: 1em; 
 
@@ -22,7 +22,7 @@ margin:  120px auto -25px auto;
 
    P {
 
-    font-family: Tahoma;
+    font-family: Arial;
 color: #525558; 
 
 
@@ -33,7 +33,7 @@ color: #525558;
 
 
 
-	font-family: Tahoma; 
+	font-family: Arial; 
 	color: #1f4bae;
 
 	font-size: 1em; 
