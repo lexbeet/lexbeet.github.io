@@ -1,0 +1,60 @@
+/* http://www.menucool.com */
+
+#sliderFrame 
+{
+    position:relative;
+    width:960px;
+    margin: auto; auto; auto;  auto; /*center-aligned*/
+}
+
+#slider, #slider div.sliderInner {
+    width:960px;height:400px;/* Must be the same size as the slider images */
+}
+
+#slider {
+	background:#fff url(loading.gif) no-repeat 50% 50%;
+	position:relative;
+top: 0px;
+	margin:0 auto; /*center-aligned*/
+    transform: translate3d(0,0,0);
+}
+
+
+
+
+
+
+
+
+/* ------ built-in navigation bullets wrapper ------*/
+/* Note: check themes\2\js-image-slider.css to see how to hide nav bullets */
+#slider div.navBulletsWrapper  {
+    top:410px; left:-7px; /* Its position is relative to the #slider */
+	text-align:left;
+	background:none;
+	position:relative;
+	z-index:5;
+}
+
+/* each bullet */
+#slider div.navBulletsWrapper div 
+{
+    width:22px; height:22px;
+    font-size:0pt;color:Black;/*hide the index number in the bullet element*/
+    background:transparent url(bullet.png) no-repeat 0 0;
+    display:inline-block; /*выставляет в линию*/
+    overflow:hidden; cursor:pointer; /*скрывает выключенные пули; курсор - палец при наведении*/
+    margin:0 7px;/* set distance between each bullet*/
+}
+
+#slider div.navBulletsWrapper div.active {background-position:0 -22px;} /*позиция активной пули*/
+
+
+
+
+
+
+
+
+
+

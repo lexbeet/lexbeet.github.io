@@ -1,0 +1,63 @@
+@font-face {
+    font-family: Tahoma; 
+     
+   }
+#container {
+
+
+background: rgba( 255, 255, 255, 0.6);  
+
+    font-family: Tahoma;
+color: #525558; 
+font-size: 1em; 
+
+width: 960px;
+height: 620px;
+
+margin:  120px auto -25px auto;
+
+ 
+}
+
+
+   P {
+
+    font-family: Tahoma;
+color: #525558; 
+
+
+
+   }
+   body {
+    background-color: #d9d9d9; 
+
+
+
+	font-family: Tahoma; 
+	color: #1f4bae;
+
+	font-size: 1em; 
+   }
+#header {
+height: 160px; background: #1f4bae; 
+text-align: center; 
+
+
+margin:  -25px; -25px; -25px; -25px;
+}
+footer {
+height: 100px; background: #DFDFDF; text-align: center;
+}
+
+
+   .select {
+    color: #1f4bae; 
+font-size: 2em;
+    font-weight: normal; 
+   }
+A IMG {
+   border: none; 
+}
+.a1:link {color: #1f4bae; text-decoration: none;}
+.a1:visited {color: #1f4bae; text-decoration: none;}
+.a1:hover {color: #5782e3; text-decoration: none;}
