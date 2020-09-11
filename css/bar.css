@@ -1,15 +1,15 @@
 #bar {
-     font-family: Tahoma;
+     font-family: Arial;
 font-size: 1.5em;
-    top:-5.5em; right:0px; /* Положение */
-     padding: 1em; /* Поля */
-     margin: 0; /* Отступы */
-     position: absolute; /* Абсолютное позиционирование */
-     width: 6em; /* Ширина */
-     background: #333; /* Цвет фона */
-     color: #fff; /* Цвет текста */
-     text-align: center; /* Выравнивание по центру */
-     /* Переход */
+    top:-5.5em; right:0px; /* ГЏГ®Г«Г®Г¦ГҐГ­ГЁГҐ */
+     padding: 1em; /* ГЏГ®Г«Гї */
+     margin: 0; /* ГЋГІГ±ГІГіГЇГ» */
+     position: absolute; /* ГЂГЎГ±Г®Г«ГѕГІГ­Г®ГҐ ГЇГ®Г§ГЁГ¶ГЁГ®Г­ГЁГ°Г®ГўГ Г­ГЁГҐ */
+     width: 6em; /* ГГЁГ°ГЁГ­Г  */
+     background: #333; /* Г–ГўГҐГІ ГґГ®Г­Г  */
+     color: #fff; /* Г–ГўГҐГІ ГІГҐГЄГ±ГІГ  */
+     text-align: center; /* Г‚Г»Г°Г ГўГ­ГЁГўГ Г­ГЁГҐ ГЇГ® Г¶ГҐГ­ГІГ°Гі */
+     /* ГЏГҐГ°ГҐГµГ®Г¤ */
      -webkit-transition: top 1s ease-out 0.5s;
      -moz-transition: top 1s ease-out 0.5s;
      -o-transition: top 1s ease-out 0.5s;
